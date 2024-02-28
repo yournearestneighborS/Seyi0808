@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seyi0808
+- 👋 Hi, I’m @yournearestneighborS
 - 👀 I’m interested in Data Science and Engineering
 - 🌱 I’m currently learning Python (pandas & SciPy), R and SQL
 - 💞️ I’m looking to collaborate on data science projects
